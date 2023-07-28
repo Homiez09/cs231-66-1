@@ -1,0 +1,2 @@
+ให้ implement algorithm การแปลงจาก infix เป็น postfix ตาม lecture9 หน้า 33
+ส่งโปรแกรม ภาษา C หรือ C++ พร้อมผลการ run ตัวอย่าง input ที่รับเข้าไป
